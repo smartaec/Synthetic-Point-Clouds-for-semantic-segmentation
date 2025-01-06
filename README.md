@@ -23,34 +23,34 @@ set (proportion of scene quantity).
 **OA<sub>7</sub>**: overall accuracy not considering "clutter" class.
 
 #### legend
-<div style="text-align: center;">
-  <img src="Results/Legend.jpg" alt="DGCNN_mIoU" style="max-width: 68%; height: auto;">
+<div align="center">
+  <img src="Results/Legend.jpg" alt="DGCNN_mIoU" width="60%">
 </div>
 
 ### PointNet (CVPR 2017) [[paper](https://web.stanford.edu/~rqi/pointnet/)]
 <div style="text-align: center;">
-  <img src="Results/PointNet/mIoU.jpg" alt="PointNet_mIoU" style="max-width: 32%; height: auto;">
-  <img src="Results/PointNet/OA.jpg" alt="PointNet_OA" style="max-width: 32%; height: auto;">
-  <img src="Results/PointNet/OA7.jpg" alt="PointNet_OA7" style="max-width: 32%; height: auto;">
+  <img src="Results/PointNet/mIoU.jpg" alt="PointNet_mIoU" width="32%">
+  <img src="Results/PointNet/OA.jpg" alt="PointNet_OA" width="32%">
+  <img src="Results/PointNet/OA7.jpg" alt="PointNet_OA7" width="32%">
 </div>
 
 ### PointNet++ (NIPS 2017) [[paper](https://web.stanford.edu/~rqi/pointnet2/)]
 <div style="text-align: center;">
-  <img src="Results/PointNet2/mIoU.jpg" alt="PointNet++_mIoU" style="max-width: 32%; height: auto;">
-  <img src="Results/PointNet2/OA.jpg" alt="PointNet++_OA" style="max-width: 32%; height: auto;">
-  <img src="Results/PointNet2/OA7.jpg" alt="PointNet++_OA7" style="max-width: 32%; height: auto;">
+  <img src="Results/PointNet2/mIoU.jpg" alt="PointNet++_mIoU" width="32%">
+  <img src="Results/PointNet2/OA.jpg" alt="PointNet++_OA" width="32%">
+  <img src="Results/PointNet2/OA7.jpg" alt="PointNet++_OA7" width="32%">
 </div>
 
 ### DGCNN (ACM TOG 2019) [[arXiv](https://arxiv.org/pdf/1801.07829)]
 <div style="text-align: center;">
-  <img src="Results/DGCNN/mIoU.jpg" alt="DGCNN_mIoU" style="max-width: 32%; height: auto;">
-  <img src="Results/DGCNN/OA.jpg" alt="DGCNN_OA" style="max-width: 32%; height: auto;">
-  <img src="Results/DGCNN/OA7.jpg" alt="DGCNN_OA7" style="max-width: 32%; height: auto;">
+  <img src="Results/DGCNN/mIoU.jpg" alt="DGCNN_mIoU" width="32%">
+  <img src="Results/DGCNN/OA.jpg" alt="DGCNN_OA" width="32%">
+  <img src="Results/DGCNN/OA7.jpg" alt="DGCNN_OA7" width="32%">
 </div>
 
 ### Point Transformer (ICCV 2021) [[arXiv](https://arxiv.org/abs/2012.09164)]
 <div style="text-align: center;">
-  <img src="Results/PTv1/mIoU.jpg" alt="PTv1_mIoU" style="max-width: 32%; height: auto;">
-  <img src="Results/PTv1/OA.jpg" alt="PTv1_OA" style="max-width: 32%; height: auto;">
-  <img src="Results/PTv1/OA7.jpg" alt="PTv1_OA7" style="max-width: 32%; height: auto;">
+  <img src="Results/PTv1/mIoU.jpg" alt="PTv1_mIoU" width="32%">
+  <img src="Results/PTv1/OA.jpg" alt="PTv1_OA" width="32%">
+  <img src="Results/PTv1/OA7.jpg" alt="PTv1_OA7" width="32%">
 </div>
