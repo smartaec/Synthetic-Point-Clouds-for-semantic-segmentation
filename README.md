@@ -1,5 +1,5 @@
 # Synthetic-Point-Clouds-for-semantic-segmentation
-The results for the paper "Impact of color and mixing proportion of synthetic point clouds on semantic segmentation"
+The results for the paper ["Impact of color and mixing proportion of synthetic point clouds on semantic segmentation"](https://doi.org/10.1016/j.autcon.2025.105963)
 
 ## Introduction
 In the paper, we propose a method for generating synthetic point clouds (SPC) based on BIM models, and explore the 
