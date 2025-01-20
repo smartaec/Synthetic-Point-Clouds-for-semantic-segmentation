@@ -56,7 +56,7 @@ set (proportion of scene quantity).
 </div>
 
 ## Citation
-'''@article{zsj26,
+```@article{zsj26,
 	author = {Shaojie Zhou and Jia-Rui Lin and Peng Pan and Yuandong Pan and Ioannis Brilakis},
 	title = {Impact of color and mixing proportion of synthetic point clouds on semantic segmentation},
 	journal = {Automation in Construction},
@@ -65,4 +65,4 @@ set (proportion of scene quantity).
 	year = {2025},
 	doi = {https://doi.org/10.1016/j.autcon.2025.105963},
 }
-'''
+```
